@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>EPOE AI Takeover Patch</name>
+	<author>subtlepseudonym</author>
+    <url>https://github.com/subtlepseudonym/rimworld-mods/tree/master/ai-takeover-epoe-patch</url>
+	<targetVersion>1.0.2282</targetVersion>
+	<description>AI Takeover aims to provide a more interesting and useful take on EPOE's AI persona core installation surgery.
+
+Expanded Prosthetics and Organ Engineering allows you to install an AI persona core in one of your colonists. This increases their stats by a significant amount, but also creates a non-trivial chance for berserk rages or bouts of psychotic wandering. While this effect was surely meant as a way to balance the stat upgrades, it makes the surgery too costly for many players, myself included. This mod patch aims to change that.
+
+With AI Takeover, an AI persona core can be installed in a colonist as in EPOE, but the effects of the surgery are spread out over the course of 13 days and 5 stages. Each stage improves your colonist's consciousness cap and reduces their need for rest, but increases their hunger rate, causes memory loss, and reduces their ability to interact with other colonists (via hearing / talking capacity). The goal is to simulate the installed AI persona core taking over the colonist's brain until they are effectively a buffed trauma savant.
+
+Load this after EPOE.</description>
+</ModMetaData>

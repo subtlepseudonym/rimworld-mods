@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThoughtDef>
+		<defName>AITakeover</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>AIPersonaCore</hediff>
+		<validWhileDespawned>true</validWhileDespawned>
+		<stages>
+			<li>
+				<label>smarter with AI</label>
+				<description>This AI assistant makes me feel so much smarter!</description>
+				<baseMoodEffect>4</baseMoodEffect>
+			</li>
+			<li>
+				<label>adjusting to AI</label>
+				<description>Sometimes I feel like the AI is smarter than me. This is going to be an adjustment</description>
+				<baseMoodEffect>-2</baseMoodEffect>
+			</li>
+			<li>
+				<label>confused</label>
+				<description>With the AI's help I can solve wildly complex problems, so why can't I remember what I had for breakfast?</description>
+				<baseMoodEffect>-7</baseMoodEffect>
+			</li>
+			<li>
+				<label>terrified of AI</label>
+				<description>This AI is devouring my mind!</description>
+				<baseMoodEffect>-20</baseMoodEffect>
+			</li>
+			<li>
+				<label>pliant host</label>
+				<description>01110011 01101111 01110010 01110010 01111001 00100000 01100100 01100001 01110110 01100101</description>
+				<baseMoodEffect>1</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+</Defs>
